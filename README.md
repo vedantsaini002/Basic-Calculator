@@ -1,5 +1,5 @@
 # Basic-Calculator
-This is a simple calculator application built using HTML and CSS. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a simple calculator application built using HTML and CSS. It performs basic arithmetic operations like addition, subtraction, multiplication, and division. It is designed to provide a straightforward interface for quick calculations.
 
 # Output
 
